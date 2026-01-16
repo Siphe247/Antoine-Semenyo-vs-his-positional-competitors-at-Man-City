@@ -4,8 +4,8 @@ Data source: [FBREF](https://fbref.com/stathead/player_comparison.cgi?request=1&
 
 -----------------------------
 
-Standard Stats for the 2025/26 Premier League season
+**Standard Stats for the 2025/26 Premier League season**
 ![image_alt](https://github.com/Siphe247/Antoine-Semenyo-vs-his-positional-competitors-at-Man-City/blob/496eaf0b1f90461236aacdb74b4b5c6ae17980d8/Manchester%20City%20Winger%20Stats%202025-26.png)
 
-Passing Stats Per 90 in the 2025/26 Premier League season
+**Passing Stats Per 90 in the 2025/26 Premier League season**
 ![image_alt](https://github.com/Siphe247/Antoine-Semenyo-vs-his-positional-competitors-at-Man-City/blob/496eaf0b1f90461236aacdb74b4b5c6ae17980d8/Manchester%20City%20Winger%20Passing%20Stats%202025-26.png)
